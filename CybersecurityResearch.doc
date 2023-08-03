@@ -1,7 +1,10 @@
 Equifax Data Breach
 
-In 2017, Equifax experienced a significant data breach that revealed sensitive information of 147 million individuals. Cybercriminals, driven by the desire for money and identity theft, targeted names, social security numbers, birth dates, addresses, and credit card details.
+In 2017, Equifax experienced a significant data breach that revealed sensitive information of 147 million individuals. 
+Cybercriminals, driven by the desire for money and identity theft, targeted names, social security numbers, birth dates, addresses, and credit card details.
 
-The breach happened because of security weaknesses, including a software flaw in Apache Struts that was not fixed. Equifax's failure to address this problem allowed hackers to gain unauthorized access to their systems.
+The breach happened because of security weaknesses, including a software flaw in Apache Struts that was not fixed. 
+Equifax's failure to address this problem allowed hackers to gain unauthorized access to their systems.
 
-In response, Equifax took action by putting in place security measures, timely updates, encryption, and better monitoring. It is crucial to have proactive cybersecurity measures to protect customer data and defend against future threats.
+In response, Equifax took action by putting in place security measures, timely updates, encryption, and better monitoring. 
+It is crucial to have proactive cybersecurity measures to protect customer data and defend against future threats.
